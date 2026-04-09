@@ -11,6 +11,7 @@ Focused on building scalable and high-performance applications using **C++** and
 ### Tech Stack
 
 *   C++, C#
+*   MFC
 *   ASP.NET Core MVC
 *   Entity Framework Core
 *   MS SQL Server
