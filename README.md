@@ -3,7 +3,7 @@
 Backend Developer with 4 years of experience in **fintech**.  
 Focused on building scalable and high-performance applications using **C++** and **C# (.NET)**.
 
-- 🌱 I’m currently learning more about **AI** and deepening my **knowledge** in .NET Framework.
+- 🌱 I’m currently learning more about **Software Engineering and DevOps** and deepening my knowledge in .NET Framework.
 - ⚡ Fun fact: The three things I love are coding, digital drawing and reading. 
 - 📫 You can reach me via the LinkedIn link in my bio.
 
